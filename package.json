@@ -1,0 +1,15 @@
+{
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "my timestamp api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0"
+  },
+  "author": "Grzegorz Bach",
+  "license": "ISC"
+}
